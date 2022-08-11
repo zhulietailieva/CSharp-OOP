@@ -47,10 +47,7 @@ namespace _06.MoneyTransactions
 
                     Console.WriteLine(ex.Message);
                 }
-                finally  {Console.WriteLine("Enter another command"); }
-              
-                    
-                
+                finally  {Console.WriteLine("Enter another command"); }               
             }
         }
     }
